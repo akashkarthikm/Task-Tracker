@@ -1,9 +1,10 @@
 # Task Tracker
 
-This application was built using react framework, javascript, html and css for frontend, json server was implemented locally for database.
+This application was built using react framework, javascript, html and css for frontend, json server was hosted on heroku for database.
 Currently hosted and live on heroku :
  
 Hosted link:  https://task-tracker-ak.herokuapp.com/
+Database link: https://server-task-tracker.herokuapp.com/tasks
 
 ## Functionalities :
 * Adding a task and setting reminder. 
