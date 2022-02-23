@@ -1,5 +1,4 @@
 # Task Tracker
-
 This application was built using react framework, javascript, html and css for frontend, json server was hosted on heroku for database.
 Currently hosted and live on heroku :
  
